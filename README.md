@@ -1,9 +1,9 @@
 Steps to initialize a new repository:
 1. Use GUI to create a folder that will store a local copy of the repository
 2. Open Git Bash and `cd` into the created folder
-3. pwd to double check current location
+3. `pwd` to double check current location
 4. Use touch to create necessary files (usually at least a README.md and an index.html file)
-5. ls to douoble check that necessry files have been created `code .` to enter VS Code and then open a new terminal
+5. `ls` to double check that necessary files have been created `code .` to enter VS Code and then open a new terminal
 6. Initialize a repo using `git init`
 7. Stage and commit the newly created files using `git add .` and `git commit -m "..."`
 8. Go to Github and open a new repository
