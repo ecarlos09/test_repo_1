@@ -1,5 +1,5 @@
 Steps to initialize a new repository:
-1. Use GUI to create a folder that will store a local copy of the repository
+1. -[ ] Use GUI to create a folder that will store a local copy of the repository
 2. Open Git Bash and `cd` into the created folder
 3. `pwd` to double check current location
 4. Use touch to create necessary files (usually at least a README.md and an index.html file)
